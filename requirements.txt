@@ -1,6 +1,2 @@
 pandas 
-numpy 
-time 
 Mftool 
-os 
-streamlit
