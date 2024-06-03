@@ -5,7 +5,7 @@ import time
 import os 
 from mftool import Mftool 
 import streamlit.components.v1 as components
-import matplotlib.pyplot as plt
+
 
 def convert_df(df):
     return df.to_csv().encode("utf-8")
